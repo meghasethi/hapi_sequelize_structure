@@ -1,13 +1,13 @@
 {
   "name": "hano",
   "version": "1.0.0",
-  "description": "Hapi and Node Project For Scaleable Apps",
+  "description": "Hapi and Node Project For Scaleable Apps with sequelize ORM",
   "engines": {
     "node": ">=8.9.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ignivalancy/hano.git"
+    "url": "git+https://github.com"
   },
   "keywords": [
     "node",
@@ -17,9 +17,9 @@
     "mongo"
   ],
   "bugs": {
-    "url": "https://github.com/ignivalancy/hano/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/ignivalancy/hano#readme",
+  "homepage": "https://github.com/",
   "dependencies": {
     "apn": "2.1.5",
     "babel-core": "^6.26.0",
@@ -82,8 +82,8 @@
     "rp": "prettier --write \"**/*.json\" \"**/*.js\" \"!web/**/*.js\" \"!web/**/*.json\"  \"!dist/**/*.js\"",
     "precommit": "npm run rp && lint-staged"
   },
-  "author": "Lancy Goyal",
-  "email": "i.lancygoyal@gmail.com",
-  "url": "https://lancygoyal.github.io",
+  "author": "Megha Sethi",
+  "email": "meghasethi786@gmail.com",
+  "url": "https://github.io",
   "license": "MIT"
 }
